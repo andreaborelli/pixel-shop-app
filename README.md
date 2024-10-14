@@ -13,7 +13,7 @@ To get a local copy up and running, follow these simple steps:
 - **Angular CLI** version `18.2.5` installed locally in the project:
   - Run the following command to install it:
     ```sh
-    npm install @angular/cli@18.2.5 --save-dev
+    npm install @angular/cli@18.2.8 --save-dev
 
 ### Steps
 
